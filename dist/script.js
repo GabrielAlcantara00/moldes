@@ -1,6 +1,6 @@
 /* CONFIGURAÇÃO RÁPIDA — troque somente os dois valores abaixo antes de anunciar. */
 const LP_CONFIG = {
-  checkoutUrl: "COLE_SEU_LINK_DO_CHECKOUT_AQUI",
+  checkoutUrl: "https://ggcheckout.app/checkout/v5/x0MvUowQ9okwtLmlvpmC",
   metaPixelId: "COLE_SEU_PIXEL_ID_AQUI"
 };
 
