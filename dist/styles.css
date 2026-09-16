@@ -268,10 +268,10 @@ footer { padding: 40px 0 100px; color: #b6c8d3; background: #061724; font-size: 
   .container, .narrow { width: min(100% - 28px, 1160px); }
   .section { padding: 65px 0; }
   .topbar { gap: 6px; font-size: 10px; }
-  .nav { min-height: 73px; }
+  .nav { display: none; }
   .brand img { width: 54px; height: 54px; }
   .mini-cta { display: none; }
-  .hero-grid { gap: 0; padding: 35px 0 25px; }
+  .hero-grid { gap: 0; padding: 22px 0 25px; }
   h1 { font-size: 44px; }
   h1 em { text-decoration-thickness: 5px; }
   h2 { font-size: 34px; }
